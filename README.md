@@ -1,4 +1,4 @@
 # Contact-Keeper
-Contact Keeper web application 
+Contact Keeper web application using ReactJS and MongoDB
 
-Deployed here:   https://shrouded-dusk-64933.herokuapp.com
+Deployed to Heroku:   https://shrouded-dusk-64933.herokuapp.com
